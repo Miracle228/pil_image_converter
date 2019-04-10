@@ -3,8 +3,8 @@ import os, sys
 
 from pathlib import Path
 
-path = "images_to_site/"
-save_dir ="images_to_site/out"
+path = "images/"
+save_dir ="images/out"
 
 dirs = os.listdir( path )
 new_folder = 'out'
